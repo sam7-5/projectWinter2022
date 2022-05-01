@@ -1,0 +1,60 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PL.MVVM.view"
+             xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" x:Class="PL.MVVM.view.mediaView"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="21*"/>
+            <RowDefinition Height="29*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" >
+            <StackPanel.Background>
+                <ImageBrush ImageSource="/MVVM/view/mediaSearch.png"/>
+            </StackPanel.Background>
+
+        </StackPanel>
+        <TextBox Name="dataSearch"  VerticalAlignment="Top" HorizontalAlignment="Left"  FontSize="16"  TextWrapping="Wrap" Text="Search for ... (e.g. &quot;Orion&quot;)" BorderBrush="Transparent" Background="#FF16191E" Foreground="#FF5A5A5B" Height="35" CaretBrush="#FF113470" Cursor="Arrow" Width="400"  SelectionTextBrush="Transparent" Margin="220,132,0,0" GotMouseCapture="dataSearch_GotMouseCapture"  />
+
+
+        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="38" Height="35" Cursor="Hand"  Margin="623,130,0,0"  Click="getPictures" BorderBrush="#FF113470"  >
+            <Button.Background>
+                <ImageBrush ImageSource="/MVVM/view/searchIcon.png"/>
+            </Button.Background>
+        </Button>
+
+        <ScrollViewer Grid.Row="1" Margin="0,0,0,25" VerticalScrollBarVisibility="Hidden" HorizontalScrollBarVisibility="Disabled">
+            <ListView 
+                  Background="Transparent"
+                  ItemsSource="{Binding medias}"
+                 Grid.Row="1" Margin="0,0,0,25"
+                  Height="402" >
+
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <UniformGrid Columns="4" />
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
+
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+
+                            <Image Height="200"
+                                Width="140" Margin="10" Stretch="Uniform"
+                               Source="{Binding imageUri,IsAsync=True}" />
+                        </StackPanel>
+
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollViewer>
+
+
+
+    </Grid>
+</UserControl>

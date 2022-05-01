@@ -1,0 +1,18 @@
+C:\Users\shmouel\source\repos\projectWinter2022\BE\bin\Debug\BE.dll
+C:\Users\shmouel\source\repos\projectWinter2022\BE\bin\Debug\BE.pdb
+C:\Users\shmouel\source\repos\projectWinter2022\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\shmouel\source\repos\projectWinter2022\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\shmouel\source\repos\projectWinter2022\BE\obj\Debug\BE.dll
+C:\Users\shmouel\source\repos\projectWinter2022\BE\obj\Debug\BE.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BE\bin\Debug\BE.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BE\bin\Debug\BE.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BE\obj\Debug\BE.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BE\obj\Debug\BE.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BE\bin\Debug\BE.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BE\bin\Debug\BE.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BE\obj\Debug\BE.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BE\obj\Debug\BE.pdb

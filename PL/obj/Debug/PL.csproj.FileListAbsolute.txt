@@ -1,0 +1,348 @@
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\PL.csproj.SuggestedBindingRedirects.cache
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\Theme\style.baml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\MVVM\view\asteroidsView.g.cs
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\MVVM\view\infoView.g.cs
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\MVVM\view\mediaView.g.cs
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\MVVM\view\solarSystemView.g.cs
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\MVVM\view\TodayPictureView.g.cs
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\window1.g.cs
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\MainWindow.g.cs
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\App.g.cs
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\App.baml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\MVVM\view\asteroidsView.baml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\MVVM\view\infoView.baml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\MVVM\view\mediaView.baml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\MVVM\view\solarSystemView.baml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\MVVM\view\TodayPictureView.baml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\window1.baml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\MainWindow.baml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\PL.g.resources
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\PL.exe.licenses
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\PL.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\PL.exe.config
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\PL.exe
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\PL.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Autofac.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\BE.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\BL.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\MaterialDesignColors.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\System.Buffers.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\System.Memory.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\DAL.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Firebase.Storage.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\EntityFramework.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\RestSharp.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\BE.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\BL.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\BL.dll.config
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Autofac.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Autofac.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\System.Buffers.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\System.Memory.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\DAL.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\DAL.dll.config
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\EntityFramework.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\RestSharp.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\arielsebbag\source\repos\ProjectWinter22\PL\obj\Debug\PL.exe
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\PL.exe.config
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\PL.exe
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\PL.pdb
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Autofac.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\BE.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\BL.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\MaterialDesignColors.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Buffers.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Memory.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\DAL.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Firebase.Storage.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\EntityFramework.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\RestSharp.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\BE.pdb
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\BL.pdb
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\BL.dll.config
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Autofac.pdb
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Autofac.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Buffers.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Memory.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\DAL.pdb
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\DAL.dll.config
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\EntityFramework.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\RestSharp.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.csproj.SuggestedBindingRedirects.cache
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\Theme\style.baml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\asteroidsView.g.cs
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\infoView.g.cs
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\mediaView.g.cs
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\solarSystemView.g.cs
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\TodayPictureView.g.cs
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\window1.g.cs
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MainWindow.g.cs
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\App.g.cs
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\App.baml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\asteroidsView.baml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\infoView.baml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\mediaView.baml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\solarSystemView.baml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\TodayPictureView.baml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\window1.baml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MainWindow.baml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.g.resources
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.exe.licenses
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.exe
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\PL.exe.config
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\PL.exe
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\PL.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Autofac.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\BE.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\BL.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\MaterialDesignColors.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Buffers.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Memory.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\DAL.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Firebase.Storage.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\EntityFramework.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\RestSharp.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\BE.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\BL.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\BL.dll.config
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Autofac.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Autofac.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Buffers.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Memory.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\DAL.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\DAL.dll.config
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\EntityFramework.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\RestSharp.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.csproj.SuggestedBindingRedirects.cache
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\Theme\style.baml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\asteroidsView.g.cs
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\infoView.g.cs
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\mediaView.g.cs
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\solarSystemView.g.cs
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\TodayPictureView.g.cs
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\window1.g.cs
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MainWindow.g.cs
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\App.g.cs
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\App.baml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\asteroidsView.baml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\infoView.baml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\mediaView.baml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\solarSystemView.baml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MVVM\view\TodayPictureView.baml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\window1.baml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\MainWindow.baml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.g.resources
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.exe.licenses
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.exe
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\obj\Debug\PL.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\PL.exe.config
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\PL.exe
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\PL.pdb
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Autofac.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\BE.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\BL.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\MaterialDesignColors.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\System.Buffers.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\System.Memory.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\DAL.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\EntityFramework.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\RestSharp.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Firebase.Storage.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\BE.pdb
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\BL.pdb
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\BL.dll.config
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Autofac.pdb
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Autofac.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\MaterialDesignColors.pdb
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\System.Buffers.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\System.Memory.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\DAL.pdb
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\DAL.dll.config
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\EntityFramework.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\RestSharp.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\shmouel\Desktop\winter2022\PL\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\PL.csproj.SuggestedBindingRedirects.cache
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\Theme\style.baml
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\MVVM\view\asteroidsView.g.cs
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\MVVM\view\infoView.g.cs
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\MVVM\view\mediaView.g.cs
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\MVVM\view\solarSystemView.g.cs
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\MVVM\view\TodayPictureView.g.cs
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\window1.g.cs
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\MainWindow.g.cs
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\App.g.cs
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\App.baml
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\MVVM\view\asteroidsView.baml
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\MVVM\view\infoView.baml
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\MVVM\view\mediaView.baml
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\MVVM\view\solarSystemView.baml
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\MVVM\view\TodayPictureView.baml
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\window1.baml
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\MainWindow.baml
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\PL.g.resources
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\PL.exe.licenses
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\PL.exe
+C:\Users\shmouel\Desktop\winter2022\PL\obj\Debug\PL.pdb

@@ -1,0 +1,258 @@
+C:\Users\shmouel\source\repos\projectWinter2022\DAL\bin\Debug\DAL.dll
+C:\Users\shmouel\source\repos\projectWinter2022\DAL\bin\Debug\DAL.pdb
+C:\Users\shmouel\source\repos\projectWinter2022\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\shmouel\source\repos\projectWinter2022\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\shmouel\source\repos\projectWinter2022\DAL\obj\Debug\DAL.dll
+C:\Users\shmouel\source\repos\projectWinter2022\DAL\obj\Debug\DAL.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\obj\Debug\DAL.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\obj\Debug\DAL.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\DAL.dll.config
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\DAL.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\DAL.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\BE.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\EntityFramework.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Firebase.Storage.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\RestSharp.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Buffers.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Memory.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Text.Json.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\BE.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\EntityFramework.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\RestSharp.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Buffers.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Memory.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Text.Json.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.ValueTuple.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Azure.Core.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.Graph.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Memory.Data.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Azure.Core.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.Graph.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Memory.Data.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\DAL\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\DAL.dll.config
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\DAL.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\DAL.pdb
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Azure.Core.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\BE.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\EntityFramework.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Firebase.Storage.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.Graph.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\RestSharp.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Buffers.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Memory.Data.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Memory.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Text.Json.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\BE.pdb
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Azure.Core.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\EntityFramework.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.Graph.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\RestSharp.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Buffers.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Memory.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Memory.Data.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Text.Json.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.ValueTuple.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\obj\Debug\DAL.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\DAL\obj\Debug\DAL.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\DAL.dll.config
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\DAL.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\DAL.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Azure.Core.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\BE.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\EntityFramework.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Firebase.Storage.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.Graph.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\RestSharp.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Buffers.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Memory.Data.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Memory.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Text.Json.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\BE.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Azure.Core.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\EntityFramework.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.Graph.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\RestSharp.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Buffers.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Memory.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Memory.Data.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Text.Json.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\bin\Debug\System.ValueTuple.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\obj\Debug\DAL.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\DAL\obj\Debug\DAL.pdb
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\DAL.dll.config
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\DAL.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\DAL.pdb
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Azure.Core.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\BE.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\EntityFramework.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Firebase.Storage.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.Graph.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\RestSharp.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Buffers.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Memory.Data.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Memory.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Text.Json.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.ValueTuple.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\BE.pdb
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Azure.Core.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\EntityFramework.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.Graph.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\RestSharp.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Buffers.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Memory.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Memory.Data.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Text.Json.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\bin\Debug\System.ValueTuple.xml
+C:\Users\shmouel\Desktop\winter2022\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\shmouel\Desktop\winter2022\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\shmouel\Desktop\winter2022\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\shmouel\Desktop\winter2022\DAL\obj\Debug\DAL.dll
+C:\Users\shmouel\Desktop\winter2022\DAL\obj\Debug\DAL.pdb

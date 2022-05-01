@@ -1,0 +1,72 @@
+﻿<UserControl x:Class="PL.MVVM.view.TodayPictureView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PL.MVVM.view" xmlns:viewmodels="clr-namespace:PL.MVVM.ViewModels"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <TextBlock Text="Picture of the Day " Foreground="Beige" HorizontalAlignment="Left" Height="53" FontSize="30" Margin="276,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="292"/>
+        <TextBlock Text="Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. " Foreground="Beige" HorizontalAlignment="Center" Height="53" FontSize="14" Margin="0,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="625"/>
+        <!--<Image  Name="img" HorizontalAlignment="Left" Height="100" Margin="276,225,0,0" VerticalAlignment="Top" Width="224"/>-->
+
+        <materialDesign:Flipper Name="flipper" Background="Transparent"   materialDesign:ShadowAssist.ShadowDepth="Depth3" HorizontalAlignment="Center" Margin="0,116,0,15"  Width="574">
+            <materialDesign:Flipper.FrontContent>
+                <Grid Height="256"  Width="200">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="160" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <materialDesign:ColorZone  Mode="PrimaryLight"  Height="120" Width="150" VerticalAlignment="Stretch" >
+                        <materialDesign:ColorZone.Background >
+                            <ImageBrush ImageSource="{Binding url, IsAsync=True}"/>
+                        </materialDesign:ColorZone.Background>
+                    </materialDesign:ColorZone>
+                    <StackPanel Orientation="Horizontal">
+                        <Button Style="{StaticResource  MaterialDesignToolForegroundButton}"  Command="{x:Static materialDesign:Flipper.FlipCommand}"  Margin="175,0,0,0" VerticalAlignment="Bottom" HorizontalAlignment="Right"   BorderBrush="#FF0E0C56" Foreground="White" Cursor="Hand" >
+                            <materialDesign:PackIcon  Kind="ArrowRight"   HorizontalAlignment="Right" />
+                        </Button>
+                    </StackPanel>
+                </Grid>
+            </materialDesign:Flipper.FrontContent>
+
+            <materialDesign:Flipper.BackContent>
+                <Grid Height="256" Width="200">
+                    <materialDesign:ColorZone Mode="SecondaryMid"  Padding="6" Background="Transparent">
+                        <StackPanel Orientation="Horizontal">
+                            <Button Style="{StaticResource MaterialDesignToolForegroundButton}"   Command="{x:Static materialDesign:Flipper.FlipCommand}"  HorizontalAlignment="Left" >
+                                <materialDesign:PackIcon  Kind="ArrowLeft" HorizontalAlignment="Right" />
+                            </Button>
+                        </StackPanel>
+                    </materialDesign:ColorZone>
+                    <Grid
+        Grid.Row="1"
+        Margin="0 6 0 0"
+        HorizontalAlignment="Center"
+        VerticalAlignment="Top"
+        Width="172">
+
+
+
+                        <Label x:Name="title" Margin="0,10,0,0" Content="{Binding title}"  HorizontalAlignment="Center"  FontSize="5" Foreground="#FFF9F4F4"   />
+                        <Label x:Name="date" Margin="0,18,0,0"  Content="{Binding date}"   HorizontalAlignment="Center"  FontSize="4" Foreground="#FFF9F4F4"   />
+                        <StackPanel Width="120" Height="150">
+                            <TextBlock Name="description" Text="{Binding explanation}"
+                               HorizontalAlignment="Center"
+                               TextWrapping="Wrap"
+                               Margin="0,30,0,0"
+                               FontSize="4"
+                               LineHeight="7"
+                               Foreground="White"  FontFamily="Britannic Bold" />
+                        </StackPanel>
+                    </Grid>
+                </Grid>
+
+            </materialDesign:Flipper.BackContent>
+        </materialDesign:Flipper>
+
+
+    </Grid>
+</UserControl>

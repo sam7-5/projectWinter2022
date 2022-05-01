@@ -1,0 +1,172 @@
+﻿<Window x:Class="PL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="382" Width="294"
+        WindowStartupLocation="CenterScreen"
+                WindowStyle="None"
+>
+
+    <Grid Margin="0,0,0,-6">
+        <Grid.Background>
+            <ImageBrush ImageSource="MVVM/view/font.jpg" Opacity="0.8"/>
+        </Grid.Background>
+        <Border
+            Grid.Column="0"
+            Grid.Row="0"
+            Background="#FF0E0C56"
+            Height="25"
+            VerticalAlignment="Top"
+            >
+
+            <TextBlock x:Name="MainTimerTextBlock"
+                   FontSize="20"
+                   Margin="0,0,80,0"
+                   Foreground="White"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Center"
+                   />
+
+        </Border>
+
+        <!--Exit button-->
+        <Border
+            Grid.Row="0"
+            Name="Exit"
+            Width="36"
+            Height="25"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Top"
+            Background="#E81123"
+            BorderBrush="Transparent"
+            MouseEnter="Exit_OnMouseEnter"
+            MouseLeave="Exit_OnMouseLeave"
+            MouseDown="Exit_OnMouseDown">
+
+            <materialDesign:PackIcon
+                Kind="Close"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Foreground="White"
+                Height="26"
+                Width="34"
+                />
+
+        </Border>
+
+        <materialDesign:Flipper
+               Style="{StaticResource MaterialDesignCardFlipper}"
+               materialDesign:ShadowAssist.ShadowDepth="Depth3" HorizontalAlignment="Center" Margin="0,17,0,0"  Width="294">
+            <materialDesign:Flipper.FrontContent>
+                <Grid
+           Height="256"
+           Width="200">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="160" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <materialDesign:ColorZone
+        Mode="PrimaryLight"
+        VerticalAlignment="Stretch"  Background="#FF0E0C56">
+                        <materialDesign:PackIcon
+          Kind="AccountCircle"
+          Height="128"
+          Width="128"
+          VerticalAlignment="Center"
+          HorizontalAlignment="Center"  Foreground="Beige" />
+                    </materialDesign:ColorZone>
+                    <StackPanel
+        Grid.Row="1"
+        HorizontalAlignment="Center"
+        VerticalAlignment="Center">
+                        <TextBlock Text="Administrator" Foreground="#FFF9F4F4" FontSize="20" />
+                        <Button
+          Style="{StaticResource MaterialDesignOutlinedButton}"
+          Command="{x:Static materialDesign:Flipper.FlipCommand}"
+          Margin="0 4 0 0"
+           BorderBrush="#FF0E0C56"
+          Content="Enter" Foreground="#FF0E0C56" />
+                    </StackPanel>
+                </Grid>
+            </materialDesign:Flipper.FrontContent>
+            <materialDesign:Flipper.BackContent>
+                <Grid Height="256" Width="200">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <materialDesign:ColorZone
+        Mode="SecondaryMid"
+        Padding="6" Background="#FF0E0C56">
+                        <StackPanel Orientation="Horizontal">
+                            <Button
+            Style="{StaticResource MaterialDesignToolForegroundButton}"
+            Command="{x:Static materialDesign:Flipper.FlipCommand}"
+            HorizontalAlignment="Left" >
+                                <materialDesign:PackIcon
+              Kind="ArrowLeft"
+              HorizontalAlignment="Right" />
+                            </Button>
+
+                            <TextBlock
+            Margin="8 0 0 0"
+            VerticalAlignment="Center"
+            Text="Administrator" FontSize="16"  />
+                        </StackPanel>
+                    </materialDesign:ColorZone>
+
+                    <Grid
+        Grid.Row="1"
+        Margin="0 6 0 0"
+        HorizontalAlignment="Center"
+        VerticalAlignment="Top"
+        Width="172">
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+
+                        <TextBox x:Name="pseudoTxtBox"
+          materialDesign:HintAssist.Hint="name"
+          materialDesign:HintAssist.IsFloating="True"
+          Margin="0 12 0 0"
+          Text="admin" Foreground="#FFF9F4F4"   />
+                        <PasswordBox x:Name="pswdBox"
+          Grid.Row="1"
+          materialDesign:HintAssist.Hint="password"
+          materialDesign:HintAssist.IsFloating="True"
+          Margin="0 12 0 0"
+           />
+                        <StackPanel Grid.Row="2"
+          Orientation="Horizontal"
+          Margin="0 12 0 0"
+          HorizontalAlignment="Center">
+                            <TextBlock x:Name="errorMsg"
+          Text="{Binding}" FontSize="15"
+          Foreground="Red"/>
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="3"
+          Orientation="Horizontal"
+          Margin="0 12 0 0"
+          HorizontalAlignment="Center">
+                            <Button Background="#FF0E0C56"
+         VerticalAlignment="Center"                 
+         Margin="8 4 0 0"
+         Content="Enter" Click="Button_Click_1"  BorderBrush="Beige"/>
+                        </StackPanel>
+                    </Grid>
+                </Grid>
+            </materialDesign:Flipper.BackContent>
+        </materialDesign:Flipper>
+
+    </Grid>
+</Window>

@@ -1,0 +1,93 @@
+C:\Users\shmouel\source\repos\projectWinter2022\BL\bin\Debug\BL.dll
+C:\Users\shmouel\source\repos\projectWinter2022\BL\bin\Debug\BL.pdb
+C:\Users\shmouel\source\repos\projectWinter2022\BL\bin\Debug\DAL.dll
+C:\Users\shmouel\source\repos\projectWinter2022\BL\bin\Debug\DAL.pdb
+C:\Users\shmouel\source\repos\projectWinter2022\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\shmouel\source\repos\projectWinter2022\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\shmouel\source\repos\projectWinter2022\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\shmouel\source\repos\projectWinter2022\BL\obj\Debug\BL.dll
+C:\Users\shmouel\source\repos\projectWinter2022\BL\obj\Debug\BL.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\bin\Debug\BL.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\bin\Debug\BL.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\bin\Debug\DAL.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\bin\Debug\DAL.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\obj\Debug\BL.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\obj\Debug\BL.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\bin\Debug\BL.dll.config
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\bin\Debug\BE.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\bin\Debug\Firebase.Storage.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\bin\Debug\EntityFramework.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\bin\Debug\RestSharp.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\bin\Debug\DAL.dll.config
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\bin\Debug\BE.pdb
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\bin\Debug\EntityFramework.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\bin\Debug\RestSharp.xml
+C:\Users\arielsebbag\source\repos\ProjectWinter22\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\BL.dll.config
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\BL.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\BL.pdb
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\BE.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\DAL.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\Firebase.Storage.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\EntityFramework.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\RestSharp.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\BE.pdb
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\DAL.pdb
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\DAL.dll.config
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\EntityFramework.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\RestSharp.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\obj\Debug\BL.dll
+C:\Users\shmouel\Desktop\DesktopSystem2022\ProjectWinter22\BL\obj\Debug\BL.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\BL.dll.config
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\BL.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\BL.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\BE.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\DAL.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\Firebase.Storage.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\EntityFramework.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\RestSharp.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\BE.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\DAL.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\DAL.dll.config
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\EntityFramework.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\RestSharp.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\obj\Debug\BL.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\obj\Debug\BL.pdb
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\arielsebbag\Desktop\A Rajouter\DesktopSystem2022\DesktopSystem2022\ProjectWinter22\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\BL.dll.config
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\BL.dll
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\BL.pdb
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\BE.dll
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\DAL.dll
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\EntityFramework.dll
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\RestSharp.dll
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\Firebase.Storage.dll
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\BE.pdb
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\DAL.pdb
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\DAL.dll.config
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\EntityFramework.xml
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\RestSharp.xml
+C:\Users\shmouel\Desktop\winter2022\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shmouel\Desktop\winter2022\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\shmouel\Desktop\winter2022\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\shmouel\Desktop\winter2022\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\shmouel\Desktop\winter2022\BL\obj\Debug\BL.dll
+C:\Users\shmouel\Desktop\winter2022\BL\obj\Debug\BL.pdb
